@@ -40,3 +40,10 @@ Push when you're happy with the changes and/or want to share your code.
 
 Before begining your code session you should always sync your project w/ github
 becouse I will push some changes to the project.
+
+To sync:
+git pull
+
+To upload:
+git push
+
