@@ -20,4 +20,23 @@ Check if you can commit:
 3. Write somthing in "Commit message" Textarea.
 4. Press commit button.
 
+By now you have edited the file and commited it to the local machine.
+Next you hav to "push" the project to github.com by typing this command
+while in the project directory:
 
+git push origin master
+
+This will ask for your credentials @github.com
+
+If you get to this point that means that you have successfully:
+Cloned a project from github.com
+Modified it.
+Commited the changes.
+and Uploaded it to github.com
+
+From now on. You should:
+Commit after editing a file.
+Push when you're happy with the changes and/or want to share your code.
+
+Before begining your code session you should always sync your project w/ github
+becouse I will push some changes to the project.
