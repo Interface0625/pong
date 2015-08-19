@@ -1,0 +1,20 @@
+
+1. create an account on github.com for free.
+2. check if you have git installed on your pc by
+    opening cmd and typing:
+            C:\> git
+    if you get command undefined, then install git from:
+        https://git-scm.com/download/
+
+3. create a dir named Code
+4. navigate to the Code dir with cmd and type:
+        C:\...\Code\> git clone https://github.com/Interface0625/pong.git
+6. open project with WebStorm : Code/pong
+By now, you should have a fresh copy of pong that is on git hub.
+Now you should use the built in cmd in webstorm.
+If not open you can open it in lower left corner.
+
+Check if you can commit:
+1. Edit any file.
+2. right click -> Git -> Commit File.
+3.
