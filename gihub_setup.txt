@@ -17,4 +17,7 @@ If not open you can open it in lower left corner.
 Check if you can commit:
 1. Edit any file.
 2. right click -> Git -> Commit File.
-3.
+3. Write somthing in "Commit message" Textarea.
+4. Press commit button.
+
+
