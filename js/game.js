@@ -28,16 +28,23 @@ var game = {
     },
 
     init: function () {  //Canvas properties
-        game.canvas = document.querySelector('#myCanvas');
-        game.canvas.width = 1280;
-        game.canvas.height = 720;
+        game.init2d();
 
-        game.context = game.canvas.getContext('2d');  //2d functions enabled
         Keyboard.init();
 
         game.loop(0);
     },
 
+    init2d: function(){
+        game.canvas = document.querySelector('#myCanvas');
+        game.canvas.width = 1280;
+        game.canvas.height = 720;
+
+        game.context = game.canvas.getContext('2d');  //2d functions enabled
+    },
+    init3d: function(){
+
+    },
 
     loop: function (timestamp) {
         window.requestAnimationFrame(game.loop);
