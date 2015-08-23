@@ -47,3 +47,4 @@ git pull
 To upload:
 git push
 
+set PATH=%PATH%;"C:\Program Files\Git"
