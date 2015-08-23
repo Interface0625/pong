@@ -1,8 +1,1 @@
-
 window.onload = game.init;
-
-
-
-
-
-
