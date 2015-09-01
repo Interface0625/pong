@@ -1,0 +1,14 @@
+Power ups and shit:
+player larger / smaler power ups - increase / decrease size of player
+Destructoball - goes through any block without bouncing
+Ghostball- goes through any block while hitting them once
+Exploball - Giant ball powerup that explodes on impact and splits into 4 smaller balls with high speed
+ball speedup/slowdown - increase decrease speed of ball
+player ability to shoot for 3 seconds 
+Multi ball mafakas - its multiball stupid
+sticky player -  catches ball untill end of life or if another power up is obtained
+weak blocks - all blocks are destroyed with 1 hit for a certain time
+stocks - gain or lose stock
+Blocks: 1 shot, 2 shot, 3 shot, undestructible, 1 point undestructible, exploding block, extra acceleration block, invisible block.
+inverted player - inverted controlls for a certain time.
+side swap - swaps player to the top.
